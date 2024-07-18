@@ -49,6 +49,8 @@ Distributed Systems for Practitioners
 
 Designing Data-Intensive Applications
 
+Algorithms and Data Structures for Massive Datasets
+
 
 ## Backend
 Spring in Action
