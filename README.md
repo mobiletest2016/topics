@@ -87,11 +87,14 @@ Data Pipelines with Apache Airflow
 
 
 ## Machine Learning and Deep Learning
+
 Introduction to Machine Learning with Python
 
 Deep Learning with Python
 
 Dive Into Deep Learning PyTorch
+
+Natural Language Processing with Transformers
 
 Machine Learning Interviews
 
