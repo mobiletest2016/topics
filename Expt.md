@@ -1,6 +1,24 @@
+## ML
+
+[Sequence to Sequence Learning with Neural Networks](https://github.com/bentrevett/pytorch-seq2seq/blob/main/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb)
+
 ## OpenAI Cookbook
 
 https://github.com/openai/openai-cookbook/tree/main/examples
+
+
+## LangChain examples
+
+https://github.com/rajib76/langchain_examples/tree/main/examples
+
+https://github.com/langchain-ai/rag-from-scratch/
+
+https://github.com/Coding-Crashkurse/Langchain-Full-Course/tree/main
+
+https://python.langchain.com/docs/tutorials/rag/
+
+https://python.langchain.com/docs/tutorials/qa_chat_history/
+
 
 ## llama_index examples
 
@@ -12,6 +30,20 @@ https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/chat_engin
 ## AWS Lambda
 
 https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
+
+
+### AWS Bedrock
+
+https://github.com/aws-samples/amazon-bedrock-workshop
+
+https://github.com/rajib76/aws_bedrock_examples
+
+
+### AWS EKS
+
+https://eksworkshop.com/docs/introduction
+
+https://github.com/aws-samples/eks-workshop-v2
 
 
 ## AWS RAG

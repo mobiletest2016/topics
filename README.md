@@ -6,6 +6,46 @@
 
 # [Experiments](https://github.com/mobiletest2016/topics/blob/main/Expt.md)
 
+
+## Trainings
+
+[AWS Skill Builder](https://skillbuilder.aws/)
+
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
+
+[Data Engineer Learning Path - Google](https://www.cloudskillsboost.google/paths/16)
+
+[Amazon Bedrock Getting Started](https://explore.skillbuilder.aws/learn/courses/17508/amazon-bedrock-getting-started)
+
+[Building Language Models on AWS](https://explore.skillbuilder.aws/learn/courses/17556/building-language-models-on-aws)
+
+[Data Engineering on AWS - A Streaming Data Pipeline Solution (Includes Labs)](https://explore.skillbuilder.aws/learn/courses/19779/data-engineering-on-aws-a-streaming-data-pipeline-solution-includes-labs)
+
+[AWS SimuLearn: Data Analytics](https://explore.skillbuilder.aws/learn/learning-plans/2236/plan)
+
+## Resources
+
+### ML
+
+[Deploy models using Triton](https://github.com/triton-inference-server/tutorials/blob/main/Conceptual_Guide/Part_1-model_deployment/README.md)
+
+[Deploying an ONNX Model](https://github.com/triton-inference-server/tutorials/blob/main/Quick_Deploy/ONNX/README.md)
+
+[Triton Tutorials](https://github.com/triton-inference-server/tutorials)
+
+[GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+
+[GPT from Scratch](https://jaketae.github.io/study/gpt/)
+
+[Attention Mechanism](https://jaketae.github.io/study/seq2seq-attention/)
+
+
+### DB
+
+[Cassandra Data Model](https://www.scylladb.com/glossary/cassandra-data-model/)
+
+
+
 # Topics
 
 ## Languages
