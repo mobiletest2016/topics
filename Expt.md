@@ -7,6 +7,11 @@
 https://github.com/openai/openai-cookbook/tree/main/examples
 
 
+## Ollama
+
+https://ollama.com/blog/embedding-models
+
+
 ## LangChain examples
 
 https://github.com/rajib76/langchain_examples/tree/main/examples
@@ -67,3 +72,8 @@ https://sagemaker-examples.readthedocs.io/en/latest/introduction_to_amazon_algor
 https://github.com/aws-samples/serverless-rag-demo
 
 https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/
+
+
+## Flink
+
+https://github.com/apache/flink/tree/master/flink-examples
