@@ -6,6 +6,7 @@
 
 # [Experiments](https://github.com/mobiletest2016/topics/blob/main/Expt.md)
 
+# [k8s](https://github.com/mobiletest2016/topics/blob/main/k8s.md)
 
 ## Trainings
 
@@ -51,6 +52,16 @@ https://nightlies.apache.org/flink/flink-docs-stable/docs/learn-flink/overview/
 
 [Cassandra Data Model](https://www.scylladb.com/glossary/cassandra-data-model/)
 
+
+### k8s
+
+https://kubernetes.io/docs/concepts/
+
+https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
+
+https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
+
+https://kubebyexample.com/learning-paths/kubernetes-fundamentals/
 
 
 # Topics
