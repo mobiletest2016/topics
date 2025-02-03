@@ -32,6 +32,10 @@
 https://nightlies.apache.org/flink/flink-docs-stable/docs/learn-flink/overview/
 
 
+### Transformers
+
+https://huggingface.co/docs/transformers/en/tasks/sequence_classification
+
 
 ### ML
 
@@ -50,7 +54,11 @@ https://nightlies.apache.org/flink/flink-docs-stable/docs/learn-flink/overview/
 
 ### DB
 
+[ScyllaDB University](https://university.scylladb.com/#search-courses)
+
 [Cassandra Data Model](https://www.scylladb.com/glossary/cassandra-data-model/)
+
+[Log Structured Merge Tree](https://www.scylladb.com/glossary/log-structured-merge-tree/)
 
 
 ### k8s
