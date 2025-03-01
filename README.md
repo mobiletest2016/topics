@@ -51,6 +51,11 @@ https://huggingface.co/docs/transformers/en/tasks/sequence_classification
 
 [Attention Mechanism](https://jaketae.github.io/study/seq2seq-attention/)
 
+[Learn RAG From Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
+
+[LangChain Crash Course for Beginners](https://www.youtube.com/watch?v=lG7Uxts9SXs)
+
+[Ollama Course – Build AI Apps Locally](https://www.youtube.com/watch?v=GWB9ApTPTv4)
 
 ### DB
 
