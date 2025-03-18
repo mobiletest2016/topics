@@ -8,5 +8,7 @@ https://leetcode.com/problems/majority-element/
 
 https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 
+https://leetcode.com/problems/longest-nice-subarray/
+
 
 
