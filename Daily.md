@@ -10,5 +10,6 @@ https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 
 https://leetcode.com/problems/longest-nice-subarray/
 
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 
