@@ -4,6 +4,10 @@
 
 # [Coding Topics](https://github.com/mobiletest2016/topics/blob/main/Coding.md)
 
+# [Words](https://github.com/mobiletest2016/topics/blob/main/Words.md)
+
+# [Links](https://github.com/mobiletest2016/topics/blob/main/Links.md)
+
 # [Books](https://github.com/mobiletest2016/topics/blob/main/Books.md)
 
 # [Regular Practice](https://github.com/mobiletest2016/topics/blob/main/Regular.md)
