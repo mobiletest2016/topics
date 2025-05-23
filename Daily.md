@@ -17,3 +17,13 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 
 https://leetcode.com/problems/finding-3-digit-even-numbers/
+
+https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
