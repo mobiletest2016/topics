@@ -1,5 +1,19 @@
 ### Daily problems
 
+https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+
+https://leetcode.com/problems/candy/
+
+https://leetcode.com/problems/distribute-candies-among-children-i/
+
+https://leetcode.com/problems/distribute-candies-among-children-ii/
+
+https://leetcode.com/problems/132-pattern/
+
+https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
+
+https://leetcode.com/problems/domino-and-tromino-tiling/
+
 https://leetcode.com/problems/majority-element-ii/
 
 https://leetcode.com/problems/majority-element/
@@ -39,8 +53,6 @@ https://leetcode.com/problems/reverse-nodes-in-k-group/
 https://leetcode.com/problems/lru-cache/
 
 https://leetcode.com/problems/reveal-cards-in-increasing-order/
-
-https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 
 https://leetcode.com/problems/maximum-subarray/
 
