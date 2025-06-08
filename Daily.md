@@ -1,5 +1,11 @@
 ### Daily problems
 
+https://leetcode.com/problems/lexicographical-numbers/
+
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+
+https://leetcode.com/problems/repeated-substring-pattern/
+
 https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 
 https://leetcode.com/problems/candy/
