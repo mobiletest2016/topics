@@ -1,5 +1,9 @@
 ### Daily problems
 
+https://leetcode.com/problems/maximum-width-of-binary-tree/
+
+https://leetcode.com/problems/diameter-of-binary-tree/
+
 https://leetcode.com/problems/lexicographical-numbers/
 
 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
