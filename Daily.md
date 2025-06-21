@@ -1,5 +1,13 @@
 ### Daily problems
 
+https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
+
+https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
+
+https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/
+
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+
 https://leetcode.com/problems/combination-sum/
 
 https://leetcode.com/problems/combination-sum-ii/
