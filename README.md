@@ -1,5 +1,7 @@
 # [SQL](https://github.com/mobiletest2016/topics/blob/main/SQL.md)
 
+# [TechList](https://github.com/mobiletest2016/topics/blob/main/TechList.md)
+
 # [Problems](https://github.com/mobiletest2016/topics/blob/main/Problems.md)
 
 # [Kaggle](https://github.com/mobiletest2016/topics/blob/main/Kaggle.md)
