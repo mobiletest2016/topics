@@ -22,6 +22,21 @@ class Solution {
 }
 ```
 
+```python
+class Solution:
+    def largestRectangleArea(self, heights: List[int]) -> int:
+        stack = []
+        res = 0
+        for i in range(len(heights) + 1):
+            height = heights[i] if i < len(heights) else 0
+            while len(stack) > 0 and height < heights[stack[-1]]:
+                h = heights[stack.pop()]
+                w = i if len(stack) == 0 else i - 1 - stack[-1]
+                res = max(res, w * h)
+            stack.append(i)
+        return res
+```
+
 ### [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
 ```java
@@ -39,6 +54,19 @@ class Solution {
             nums[nums.length - 1 - i] = 0;
     }
 }
+```
+
+```python
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        cnt = 0
+        for i in range(len(nums)):
+            if nums[i] == 0:
+                cnt += 1
+            else:
+                nums[i - cnt] = nums[i]
+        for i in range(cnt):
+            nums[len(nums) - 1 - i] = 0
 ```
 
 
@@ -113,7 +141,66 @@ class Solution {
 }
 ```
 
+### [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/)
+
+```java
+class Solution {
+    public int possibleStringCount(String word) {
+        int res = 1;
+        for(int i = 0; i < word.length(); i++) {
+            if (i < word.length() - 1 && word.charAt(i) == word.charAt(i + 1))
+                res++;
+        }
+        return res;
+    }
+}
+```
+
+```python
+class Solution(object):
+    def possibleStringCount(self, word):
+        res = 1
+        for i in range(len(word)):
+            if i < len(word) - 1 and word[i] == word[i + 1]:
+                res += 1
+        return res
+```
+
 https://leetcode.com/problems/132-pattern
+
+```java
+class Solution {
+    public boolean find132pattern(int[] nums) {
+        Stack<Integer> stack = new Stack<>();
+        int max = Integer.MIN_VALUE;
+        for(int i = nums.length - 1; i >= 0; i--) {
+            if (nums[i] < max)
+                return true;
+
+            while(!stack.isEmpty() && stack.peek() < nums[i])
+                max = stack.pop();
+
+            stack.push(nums[i]);
+        }
+
+        return false;
+    }
+}
+```
+
+```python
+class Solution:
+    def find132pattern(self, nums: List[int]) -> bool:
+        stack = []
+        mmax = float('-inf')
+        for n in nums[::-1]:
+            if n < mmax:
+                return True
+            while len(stack) > 0 and n > stack[-1]:
+                mmax = max(stack.pop(), mmax)
+            stack.append(n)
+        return False
+```
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
