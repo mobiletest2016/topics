@@ -166,7 +166,7 @@ class Solution(object):
         return res
 ```
 
-https://leetcode.com/problems/132-pattern
+### [456. 132 Pattern](https://leetcode.com/problems/132-pattern)
 
 ```java
 class Solution {
@@ -202,9 +202,159 @@ class Solution:
         return False
 ```
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+### [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+```java
+class Solution {
+    public int findJudge(int n, int[][] trust) {
+        int[] cnt = new int[n + 1];
+
+        for(int[] t : trust) {
+            cnt[t[1]]++;
+            cnt[t[0]]--;
+        }
+
+        for(int i = 1; i <= n; i++) {
+            if (cnt[i] == n - 1)
+                return i;
+        }
+        return -1;
+    }
+}
+```
+
+### [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)
+
+```java
+class Solution {
+    public int maxEvents(int[][] events) {
+        Arrays.sort(events, (a, b) -> Integer.compare(a[0], b[0]));
+        int lastday = 0;
+        int firstday = Integer.MAX_VALUE;
+        for(int[] event : events) {
+            lastday = Math.max(lastday, event[1]);
+            firstday = Math.min(firstday, event[0]);
+        }
+
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        int idx = 0;
+        int res = 0;
+        for(int day = firstday; day <= lastday; day++) {
+            while(!pq.isEmpty() && pq.peek() < day)
+                pq.poll();
+            while(idx < events.length && events[idx][0] == day)
+                pq.offer(events[idx++][1]);
+            if(!pq.isEmpty()) {
+                int pp = pq.poll();
+                res++;
+            }
+        }
+        return res;
+    }
+}
+```
+
+### [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing)
+```java
+class Solution {
+    public boolean canBeIncreasing(int[] nums) {
+        int max = nums[0];
+        boolean one = false;
+        for(int i = 1; i < nums.length; i++) {
+            if (nums[i] <= max) {
+                if (one)
+                    return false;
+                one = true;
+                if (i == 1 || nums[i] > nums[i - 2])
+                    max = nums[i];
+                else
+                    max = nums[i - 1];
+            } else
+                max = nums[i];
+        }
+        return true;
+    }
+}
+```
+
+```java
+class Solution {
+    public boolean canBeIncreasing(int[] nums) {
+        Stack<Integer> stack = new Stack<>();
+        boolean one = false;
+        for(int n : nums) {
+            if (stack.isEmpty() || stack.peek() < n)
+                stack.push(n);
+            else {
+                if (one)
+                    return false;
+                one = true;
+                int prev = stack.pop();
+                if (stack.isEmpty() || n > stack.peek())
+                    stack.push(n);
+                else {
+                    stack.push(prev);
+                }
+            }
+        }
+        return true;
+    }
+}
+```
+
+### [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+```java
+class Solution {
+    public int maxProfit(int[] prices) {
+        int min = Integer.MAX_VALUE;
+        int res = 0;
+        for(int p  : prices) {
+            min = Math.min(min, p);
+            res = Math.max(res, p - min);
+        }
+        return res;
+    }
+}
+```
+
+### [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
+```java
+class Solution {
+    public int maxProfit(int[] prices) {
+        int res = 0;
+        for(int i = 1; i < prices.length; i++) {
+            if (prices[i] > prices[i - 1])
+                res += prices[i] - prices[i - 1];
+        }
+        return res;
+    }
+}
+```
+
+https://leetcode.com/problems/removing-minimum-and-maximum-from-array
+```java
+class Solution {
+    public int minimumDeletions(int[] nums) {
+        int min = 0, max = 0;
+        for(int i = 0; i < nums.length; i++) {
+            if (nums[i] < nums[min])
+                min = i;
+            if (nums[i] > nums[max])
+                max = i;
+        }
+
+        int front = Math.max(min, max) + 1;
+        int back = nums.length - Math.min(min, max);
+
+        int bigger = Math.max(min, max);
+        int smaller = Math.min(min, max);
+        int both = smaller + 1 + nums.length - bigger;
+
+        return Math.min(both, Math.min(front, back));
+    }
+}
+```
+
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 
@@ -264,8 +414,6 @@ https://leetcode.com/problems/maximum-candies-allocated-to-k-children
 
 https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
 
-https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
-
 https://leetcode.com/problems/maximum-subarray
 
 https://leetcode.com/problems/maximum-width-of-binary-tree
@@ -279,10 +427,6 @@ https://leetcode.com/problems/minimum-deletions-to-make-string-k-special
 https://leetcode.com/problems/number-of-wonderful-substrings
 
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
-
-https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing
-
-https://leetcode.com/problems/removing-minimum-and-maximum-from-array
 
 https://leetcode.com/problems/repeated-substring-pattern
 
