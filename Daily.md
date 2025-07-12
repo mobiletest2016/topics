@@ -331,7 +331,7 @@ class Solution {
 }
 ```
 
-https://leetcode.com/problems/removing-minimum-and-maximum-from-array
+### [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)
 ```java
 class Solution {
     public int minimumDeletions(int[] nums) {
@@ -355,6 +355,26 @@ class Solution {
 }
 ```
 
+### [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+```java
+class Solution {
+    public int reverse(int x) {
+        boolean isNeg = x < 0 ? true : false;
+        x = Math.abs(x);
+        int rev = 0;
+        while(x != 0) {
+            int digit = x % 10;
+            x = x / 10;
+            if (rev > Integer.MAX_VALUE / 10 || rev < Integer.MIN_VALUE / 10)
+                return 0;
+            rev = rev * 10 + digit;
+        }
+
+
+        return isNeg ? -rev : rev;
+    }
+}
+```
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 
