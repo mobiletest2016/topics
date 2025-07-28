@@ -5,6 +5,7 @@
 ### Flink
 ### Kafka
 ### Pinot
+### Presto/Trino
 ### Druid
 ### Avro, Parquet
 
@@ -27,3 +28,9 @@
 ### DNN, CNN, RNN, LSTM, GRU
 ### LangChain, LangGraph
 ### ChromaDB, Pinecone, Solr Dense Vector
+
+# Cloud
+
+## AWS
+
+# S3, 
