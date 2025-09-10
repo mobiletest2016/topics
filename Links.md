@@ -72,6 +72,34 @@ System Design
 
 [EP17: Design patterns cheat sheet. Also... - by Alex Xu](https://blog.bytebytego.com/p/ep17-design-patterns-cheat-sheet)
 
+[How Cloudflare Supports 55 Million Requests per Second With 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
+
+[How Google Ads Supports 4.77 Billion Users With a SQL Database](https://newsletter.systemdesign.one/p/cloud-spanner-database)
+
+[Real-Time Leaderboard Architecture](https://systemdesign.one/leaderboard-system-design/)
+
+[How Does Google Docs Work](https://newsletter.systemdesign.one/p/how-does-google-docs-work)
+
+[How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
+
+[Slack Messenger Architecture](https://systemdesign.one/slack-architecture/)
+
+[Distributed Counter Architecture](https://systemdesign.one/distributed-counter-system-design/)
+
+[Pastebin Architecture](https://systemdesign.one/system-design-pastebin/)
+
+[URL Shortener Architecture](https://systemdesign.one/url-shortening-system-design/)
+
+[Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
+
+[How Stripe Prevents Double Payment Using Idempotent API](https://newsletter.systemdesign.one/p/idempotent-api)
+
+[How Amazon S3 Works](https://newsletter.systemdesign.one/p/s3-architecture)
+
+[How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
+
+[How YouTube Was Able to Support 2.49 Billion Users With MySQL](https://newsletter.systemdesign.one/p/vitess-mysql)
+
 
 Coding
 -----
