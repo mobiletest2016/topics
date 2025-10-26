@@ -1,6 +1,8 @@
 Uncategorized
 -----
 
+[Triton Tutorials](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/README.html)
+
 [Introduction to Facebook AI Similarity Search (Faiss)](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
 
 [Foundational courses](https://developers.google.com/machine-learning)
