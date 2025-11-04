@@ -1,17 +1,19 @@
 Uncategorized
 -----
 
-[Triton Tutorials](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/README.html)
+:star: [Huggingface LLM Course](https://huggingface.co/learn/llm-course)
+
+:star:[Triton Tutorials](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/README.html)
 
 [Deploy models using Triton](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/Conceptual_Guide/Part_1-model_deployment/README.html)
 
 [Introduction to Facebook AI Similarity Search (Faiss)](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
 
-[Foundational courses](https://developers.google.com/machine-learning)
+[Google ML Foundational courses](https://developers.google.com/machine-learning)
 
-[Advanced courses](https://developers.google.com/machine-learning/advanced-courses)
+[Google ML Advanced courses](https://developers.google.com/machine-learning/advanced-courses)
 
-[Re-ranking ](https://developers.google.com/machine-learning/recommendation/dnn/re-ranking)
+[Google ML Recommendation Re-ranking ](https://developers.google.com/machine-learning/recommendation/dnn/re-ranking)
 
 [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 
