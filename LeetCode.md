@@ -1,5 +1,9 @@
 # Daily problems
 
+### [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+### [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
 ### [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ### [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/)
