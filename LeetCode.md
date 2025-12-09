@@ -1,5 +1,9 @@
 # Daily problems
 
+### [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+### [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
+
 ### [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 
 ### [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
