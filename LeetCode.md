@@ -1,5 +1,7 @@
 # Daily problems
 
+### [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
+
 ### [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)
 
 ### [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
