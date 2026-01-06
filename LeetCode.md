@@ -1,5 +1,7 @@
 # Daily problems
 
+### [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)
+
 ### [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
 ### [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)
