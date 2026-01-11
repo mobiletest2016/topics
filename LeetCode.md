@@ -1,5 +1,9 @@
 # Daily problems
 
+### [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+### [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+
 ### [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)
 
 ### [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
