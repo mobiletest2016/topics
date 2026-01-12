@@ -1,5 +1,7 @@
 # Daily problems
 
+### [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+
 ### [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
 ### [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
