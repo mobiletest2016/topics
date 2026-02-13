@@ -1,5 +1,9 @@
 # Daily problems
 
+### [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/)
+
+### [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/)
+
 ### [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/)
 
 ### [3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)
