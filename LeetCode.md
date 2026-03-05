@@ -1,4 +1,10 @@
-# Daily problems
+# Daily problems ⭐ 🥷 💡 🤔 🤯
+
+### ⭐  [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+
+### 💡 [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+
+### [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)
 
 ### [3714. Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/)
 
