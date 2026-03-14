@@ -1,5 +1,7 @@
 # Daily problems ⭐ 🥷 💡 🤔 🤯
 
+### 💡 [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/)
+
 ### ⭐  [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
 
 ### 💡 [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
