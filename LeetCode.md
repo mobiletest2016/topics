@@ -1,4 +1,6 @@
-# Daily problems ⭐ 🥷 💡 🤔 🤯
+# Daily problems ⭐ 💡 🥷 🤔 🤯
+
+### 🤔 [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
 
 ### 💡 [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
 
