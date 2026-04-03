@@ -1,5 +1,8 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+
+### 💡 [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)
+
 ### [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/)
 
 ### 🤔 [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/)
