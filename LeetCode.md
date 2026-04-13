@@ -1,5 +1,6 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### ⭐ [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 
 ### 💡 [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)
 
