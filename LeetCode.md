@@ -1,5 +1,9 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### ⭐ [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+### 💡 [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)
+
 ### ⭐ [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 
 ### 💡 [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)
