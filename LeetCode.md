@@ -1,5 +1,7 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### [394. Decode String](https://leetcode.com/problems/decode-string/)
+
 ### 💡 [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 
 ### ⭐ [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
