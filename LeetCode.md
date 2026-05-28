@@ -1,5 +1,7 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### ⭐ [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/)
+
 ### [394. Decode String](https://leetcode.com/problems/decode-string/)
 
 ### 💡 [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
