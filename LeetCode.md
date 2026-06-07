@@ -1,5 +1,17 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### 🥷 [https://leetcode.com/problems/path-sum-iii](https://leetcode.com/problems/path-sum-iii)
+
+### 💡 [https://leetcode.com/problems/path-sum-ii](https://leetcode.com/problems/path-sum-ii)
+
+### 💡 [https://leetcode.com/problems/path-sum-i](https://leetcode.com/problems/path-sum-i)
+
+### 🤯 [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/)
+
+### 🥷 [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)
+
+### 🥷 [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
+
 ### ⭐ [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/)
 
 ### [394. Decode String](https://leetcode.com/problems/decode-string/)
