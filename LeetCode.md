@@ -1,5 +1,7 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### 💡 [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
+
 ### 🥷 [https://leetcode.com/problems/path-sum-iii](https://leetcode.com/problems/path-sum-iii)
 
 ### 💡 [https://leetcode.com/problems/path-sum-ii](https://leetcode.com/problems/path-sum-ii)
