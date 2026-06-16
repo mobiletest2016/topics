@@ -1,14 +1,22 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+### ⭐ [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
+### 💡 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+
+### 💡 [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
+
 ### 🤯 [3614. Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)
 
 ### 💡 [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 
-### 🥷 [https://leetcode.com/problems/path-sum-iii](https://leetcode.com/problems/path-sum-iii)
+### 🥷 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)
 
-### 💡 [https://leetcode.com/problems/path-sum-ii](https://leetcode.com/problems/path-sum-ii)
+### 💡 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii)
 
-### 💡 [https://leetcode.com/problems/path-sum-i](https://leetcode.com/problems/path-sum-i)
+### 💡 [112. Path Sum](https://leetcode.com/problems/path-sum)
 
 ### 🤯 [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/)
 
