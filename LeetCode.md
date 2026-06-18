@@ -1,5 +1,9 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### 🤯 [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
+
+### ⭐ [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+
 ### [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ### ⭐ [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
