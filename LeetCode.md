@@ -1,5 +1,11 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯
 
+### [169. Majority Element](https://leetcode.com/problems/majority-element/)
+
+### [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+### [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i)
+
 ### 🤯 [1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
 
 ### ⭐ [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
