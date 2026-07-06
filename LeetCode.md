@@ -1,5 +1,11 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯   🔒
 
+### 🥷 [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/d)
+
+### 💡 [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+### 🥷 [3286. Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid)
+
 ### 💡 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 ### [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
