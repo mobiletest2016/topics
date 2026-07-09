@@ -1,5 +1,7 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯   🔒
 
+### 💡 [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)
+
 ### 🥷 [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/d)
 
 ### 💡 [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
