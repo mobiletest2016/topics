@@ -1,5 +1,7 @@
 # Daily problems ⭐ 💡 🥷 🤔 🤯   🔒
 
+### ⭐ [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)
+
 ### 💡 [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)
 
 ### 🥷 [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/d)
