@@ -1,4 +1,20 @@
-# Daily problems ⭐ 💡 🥷 🤔 🤯   🔒
+# Daily problems ⭐ 💡 🥷 🤔 🤯 🔒
+
+### []()
+
+### 💡 [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+
+### [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)
+
+### [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/)
+
+### [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k)
+
+### [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/?envType=daily-question&envId=2026-10-25)
+
+### [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)
+
+### [877. Stone Game](https://leetcode.com/problems/stone-game/)
 
 ### ⭐ [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)
 
